@@ -1,4 +1,4 @@
-# dhoni-prediction-system-flaskapp-v1
+# Dhoni-prediction-system-flaskapp-v1
 IPL score prediction using tensorflow, GUI  integration using flask.
 
 Tools used:
@@ -19,6 +19,4 @@ Live Website
 https://dhoni-prediction-system.herokuapp.com/
 
 
-Read GFG article here
 
-https://www.geeksforgeeks.org/ipl-score-prediction-using-deep-learning/
